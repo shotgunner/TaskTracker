@@ -1,0 +1,31 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Task data file
+tasks.json
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
